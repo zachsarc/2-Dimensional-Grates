@@ -41,3 +41,9 @@ You will need a working LaTeX installation/Viewer such as:
 - TeX Live
 - MiKTeX
 - Overleaf
+
+Cite and related work
+
+OEIS references and related sequences are cited in-deck where relevant.
+
+If you reuse the figures or data tables, please include attribution to this repository including a citation of my name.
