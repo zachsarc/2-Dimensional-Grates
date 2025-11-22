@@ -5,6 +5,7 @@ This repository contains the LaTeX source files for a presentation on my ongoing
 ### [Presentation Rec.](https://mathcolloquium.sites.ccsu.edu/past/Fall2025/ZLariccia-103125.mp4)
 ### [Abstract](/GratesAbstractCOLL.pdf)
 ### [NES MAA (Mathematical Association of America Talk 11/21/2025](/NESMAA+Fall+2025+Cnference+Program+-+Sacred+Heart.pdf)
+### [PDF of Presentation](https://github.com/zachsarc/LaTex_Presi/releases/tag/v1.0)
 
 
 ## What are Grates?
