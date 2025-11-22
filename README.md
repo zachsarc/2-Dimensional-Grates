@@ -15,7 +15,7 @@ A **grate** is an m×n or n×n binary matrix where each cell containing a 0 must
 
 | Name | Defining Local Rule | Notes |
 |------|---------------------|-------|
-| **Full Grates** | Every 0 must have a 1 above and to the left | Equivalent to non-attacking kings and certain Fibonacci-derived tiling counts |
+| **Full Grates** | Every 0 must have a 1 above, below, to the left, right, diagonally, and anti-diagonally | Equivalent to non-attacking kings and certain Fibonacci-derived tiling counts |
 | **Plus Grates** | Every 0 must have 1s above, below, left, and right | Introduces central dependency constraints and reduces free choice |
 | **X-Grates** | Every 0 must have 1s in diagonal positions | Produces symmetric constraint patterns related to chess-style adjacency |
 
