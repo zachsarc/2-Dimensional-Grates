@@ -3,8 +3,8 @@
 This repository contains the LaTeX source files for a presentation on my ongoing research into **2-dimensional grates**, a family of binary matrix configurations defined by local adjacency constraints. The goal of this work is to study how structure emerges from simple placement rules and to uncover counting patterns, recurrence relations, and connections to existing combinatorial sequences.
 
 ### Presentation Rec.
-[Click Here](https://mathcolloquium.sites.ccsu.edu/past/Fall2025/ZLariccia-103125.mp4)
-[Abstract]()
+### [Click Here](https://mathcolloquium.sites.ccsu.edu/past/Fall2025/ZLariccia-103125.mp4)
+### [Abstract](/GratesAbstractCOLL.pdf)
 
 
 ## What are Grates?
