@@ -30,6 +30,29 @@ These grate families show consistent patterns that can be measured and generaliz
 - Construct visual representations and enumeration tools to explore patterns computationally.
 - Create a scalable notation for comparing constraint-based matrix families.
 
+## Repos for each program and their corresponding descriptions (Repos will be coming, just have to license them)
+
+| Name                               | Description                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| mxn-Plus-Grate-Counter-Reformatted | Counts m×n plus-grate configurations using a cleaner, reorganized codebase for readability and maintenance. |
+| nxn-Full-Grate-Visualizer          | Java visualizer for exploring n×n full-grate binary matrices with interactive rendering of valid patterns.  |
+| nxn-Full-Grate-Determinant         | Computes n×n full-grate counts using a determinant/linear algebra approach (transfer-matrix style method).  |
+| nxn-Plus-Grate-Counter             | Counts n×n plus-grate configurations based on plus-constraint rules using efficient enumeration techniques. |
+| nxn-Plus-Grate-Counter-Reformatted | Refactored n×n plus-grate counter with improved structure, naming, and code clarity.                        |
+| mxn-Plus-Grate-Counter-Optimized   | Performance-optimized m×n plus-grate counter using faster state handling and reduced computation overhead.  |
+| nxn-Full-Grate-Counter             | Counts n×n full-grate configurations in Java using structured combinatorial counting logic.                 |
+| mxn-X-Grate-Counter-Optimized      | Optimized counter for m×n X-grate configurations with speed-focused improvements to the counting pipeline.  |
+| mxn-Full-Grate-Counter-Optimized   | Faster m×n full-grate counter with optimizations like streamlined transitions and better state reuse.       |
+| mxn-X-Grate-Visualizer             | Visualizer for m×n X-grate patterns, letting you generate and view valid configurations.                    |
+| nxn-X-Grate-Visualizer             | Visualizer for n×n X-grate configurations with a simple Java UI to inspect valid grids.                     |
+| mxn-X-Grate-Counter                | Counts m×n X-grate configurations, producing totals for grids under the X-style constraint rules.           |
+| nxn-X-Grate-Counter                | Counts n×n X-grate configurations using a structured counting approach for square grids.                    |
+| mxn-Plus-Grate-Visualizer          | Java visualizer for m×n plus-grate configurations to preview and inspect valid matrices.                    |
+| nxn-Plus-Grate-Visualizer          | Java visualizer for n×n plus-grate configurations with interactive display of valid grids.                  |
+| mxn-Plus-Grate-Counter             | Counts m×n plus-grate configurations, producing totals for rectangular grids under plus constraints.        |
+| mxn-Full-Grate-Visualizer          | Java visualizer for m×n full-grate configurations to explore and display valid patterns.                    |
+| mxn-Full-Grate-Counter             | Counts m×n full-grate configurations and outputs totals for rectangular grid sizes.                         |
+
 ## Presentation Contents
 
 The slide deck walks through:
