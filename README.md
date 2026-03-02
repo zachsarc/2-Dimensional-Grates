@@ -1,4 +1,7 @@
 # 2-Dimensional Grates Research Presentation
+## Author & Developer: Zach Lariccia
+## Co-Contributers (Research Portion): Dr. Darrow, Dr. Fields, Dr. Todt
+### (This research was in collaboration and supervised with Dr. Darrow (Department of Mathematics Central Connecticut State University))
 
 This repository contains the LaTeX source files for a presentation on my ongoing research into **2-dimensional grates**, a family of binary matrix configurations defined by local adjacency constraints. The goal of this work is to study how structure emerges from simple placement rules and to uncover counting patterns, recurrence relations, and connections to existing combinatorial sequences.
 
